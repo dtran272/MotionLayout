@@ -60,10 +60,6 @@
                 android:alpha="0.0"
                 app:framePosition="85"
                 app:motionTarget="@id/credits" />
-            <KeyAttribute
-                android:alpha="1.0"
-                app:framePosition="100"
-                app:motionTarget="@id/credits" />
 
         </KeyFrameSet>
     </Transition>
